@@ -1,0 +1,25 @@
+<?php
+
+return [
+	'dashboard_txt'	  		=> 'Instrumententafel',
+	'updat_account_txt'	    => 'AKTUALISIERE DEN ACCOUNT',
+	'purchase_package_txt'	=> 'Paket kaufen',
+	'wallets_txt'	  		=> 'Brieftasche',
+	'post_add_txt'	  		=> 'Veröffentlichen Sie eine neue Anzeige',
+	'view_inq_txt'	  		=> 'Anfragen anzeigen',
+	'logout_txt'	  		=> 'Ausloggen',
+	'view_manage_txt'	  	=> 'Anzeigen anzeigen und verwalten',
+	'send_msg_txt'	  		=> 'Nachricht senden',
+	'site_admin_txt'	  	=> 'Seitenadministrator',
+	'others_mail_txt'	    => 'Andere Mitglieder',
+	'hello_txt'				=> 'Hallo',
+	'wishlist_txt'			=> 'Wunschzettel',
+	'review_list'			=> 'Überprüfungsliste',
+	'tbl_name'				=> 'Name',
+	'tbl_rating'				=> 'Bewertung',
+	'tbl_message'				=> 'Botschaft',
+	'tbl_status'				=> 'Status',
+	'active_txt'				=> 'Aktiv',
+	'inactive_txt'				=> 'Inaktiv',
+	'no_data_found'				=> 'Keine Daten gefunden!',
+];

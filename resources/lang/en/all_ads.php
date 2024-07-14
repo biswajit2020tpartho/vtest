@@ -1,0 +1,28 @@
+<?php
+
+return [
+	'all_ads'         => 'All Ads',
+    'filter_by'       => 'filter by',
+    'filter'          => 'Filter',
+    'clear_filter'    => 'Clear Filter',
+    'categories'      => 'Categories',
+    'price'		      => 'Price',
+    'location'        => 'Location',  
+    'customer_rating' => 'Customer Ratings',
+    'above'	          => 'above',
+    'max'		      => 'Max',
+    'min'             => 'Min',
+    'search_state'    => 'Search State',
+    'showing'	      => 'showing',
+    'results_of'      => 'Results of',
+    'pages'           => 'pages',
+    'sort_by'         => 'Sort By',
+    'default'         => 'Default',
+    'name_z_a'        => 'Name (Z - A)',
+    'name_a_z'        => 'Name (A - Z)',
+    'price_low'       => 'Price Low to High',
+    'price_high'      => 'Price High to Low',
+    'home'            => 'Home',
+    'search_result'   => 'Search Results',
+    'to'              => 'to',
+];

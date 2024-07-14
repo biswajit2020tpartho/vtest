@@ -1,0 +1,28 @@
+<?php
+
+return [
+	'all_ads'	      => 'Alle Anzeigen',
+    'filter_by'       => 'Filtern nach',
+    'filter'          => 'Filter',
+    'clear_filter'    => 'Filter löschen',
+    'categories'      => 'Kategorien',
+    'price'		      => 'Preis',
+    'location'        => 'Standort',  
+    'customer_rating' => 'Kundenbewertungen',
+    'above'     	  => 'über',
+    'max'             => 'Max',
+    'min'             => 'Mindest',
+    'search_state'    => 'Suchstatus',
+    'showing'         => 'zeigen',
+    'results_of'      => 'Ergebnisse von',
+    'pages'           => 'Seiten',
+    'sort_by'         => 'Sortiere nach',
+    'default'         => 'Standard',
+    'name_z_a'        => 'Name (Z - A)',
+    'name_a_z'        => 'Name (A - Z)',
+    'price_low'       => 'Preis niedrig bis hoch',
+    'price_high'      => 'Preis hoch bis niedrig',
+    'home'            => 'Zuhause',
+    'search_result'   => 'Suchergebnisse',
+    'to'              => 'zu',
+];

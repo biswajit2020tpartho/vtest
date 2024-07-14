@@ -1,0 +1,25 @@
+<?php
+
+return [
+	'dashboard_txt'	  	    => 'Dashboard',
+	'updat_account_txt'	    => 'UPDATE ACCOUNT',
+	'purchase_package_txt'  => 'Purchase Package',
+	'wallets_txt'	  		=> 'Wallet',
+	'post_add_txt'	  		=> 'Post a new Ad',
+	'view_inq_txt'	  		=> 'View Inquiries',
+	'logout_txt'	  		=> 'Logout',
+	'view_manage_txt'	  	=> 'View and Manage Ads',
+	'send_msg_txt'	  		=> 'Send Message',
+	'site_admin_txt'	  	=> 'Site Administrator',
+	'others_mail_txt'	  	=> 'Other Members',
+	'hello_txt'				=> 'Hello',
+	'wishlist_txt'			=> 'Wish List',
+	'review_list'			=> 'Review list',
+	'tbl_name'				=> 'Name',
+	'tbl_rating'				=> 'Rating',
+	'tbl_message'				=> 'Message',
+	'tbl_status'				=> 'Status',
+	'active_txt'				=> 'Active',
+	'inactive_txt'				=> 'Inactive',
+	'no_data_found'				=> 'No data Found!',
+	];
